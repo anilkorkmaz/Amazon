@@ -1,0 +1,9 @@
+Projeyi Java dilini kullanarak yapmaya çalýþtým. Elimden geldiðince maddelere sadýk kaldým. 
+
+Java versionu : java version "1.8.0_151" 
+Kullandýðým IDE : Eclipse Mars 2 , proje klasörü "Amazon".
+
+Selenium sitesinden jar doslayalarýný indirip projeye baþladým. 
+Ýlk aldýðým hata geckodriver hatasýydý araþtýrarrak bu driveri indirip windows path'e tanýmlamam gerektiðini öðrendim
+Ve projeye devam ettim. Hem öðrenip hem uygulamak benim için faydalý oldu.
+
